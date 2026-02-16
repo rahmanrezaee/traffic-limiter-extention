@@ -1,4398 +1,926 @@
 {
-  "46f9a229-31f0-4082-be1e-b4230b8fb604": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:15:04.000",
-    "numericValue": 59,
+  "852fbe7f-2fc8-49b3-a614-ad038b64db3d": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:43:00.000",
+    "numericValue": 3,
     "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:15:04.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:42:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 59
+      "value": 3
     }
   },
-  "c18cb8bc-4065-4eb5-9e65-3c5ace4af151": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:12:01.000",
-    "numericValue": 53,
+  "3d29dbc6-d388-4b68-8d1e-66ab12ff5405": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:33:00.000",
+    "numericValue": 2,
     "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:07:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:32:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 53
+      "value": 2
     }
   },
-  "f2215731-0106-42e9-979c-311800f94087": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:52:01.000",
-    "numericValue": 58,
+  "4306107f-15c3-4d03-b387-6c89dbb95177": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:48:00.000",
+    "numericValue": 15,
     "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:47:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:47:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 15
     }
   },
-  "10bb8ab4-f185-4cc2-ae0f-f688df8b398a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:10:18.000",
-    "numericValue": 60,
+  "7dc77920-4871-4620-a044-a4d6d91b3278": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:32:00.000",
+    "numericValue": 0.24,
     "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:10:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:32:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 60
+      "value": 0.24
     }
   },
-  "35f38172-b532-4e21-be92-d168781b6493": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:27:01.000",
-    "numericValue": 66,
+  "4084b899-7af0-462c-8388-8d553b75df03": {
+    "unit": "METER",
+    "dateTo": "2026-02-16T06:25:38.998",
+    "numericValue": 18.52999999979511,
     "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "c6fa1cea-79a9-4800-a407-3832a70bd34e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:17:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "43b5787d-5a1e-4c4e-9e36-063f86dba8ab": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:00:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "ca9cc276-d0c4-4199-97a5-63d97b60be3e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:30:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "571a7c89-b730-4d17-b241-e065ec817d43": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:02:01.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "c3a22871-e169-42ea-9878-90364410f566": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:20:18.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:20:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "d3ec15a5-a311-4000-9495-288f25b75d66": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:35:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "ef38e509-80bb-45cb-9b98-ad1cc44c8f42": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:20:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:20:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "2f0cab3d-c1e9-434c-b09e-6ea79ad66475": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:32:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "5d0dfbe1-11b1-4e2b-b782-14e6e31a7746": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:37:21.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:37:21.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "7bc67400-245b-4f02-b25e-aae4fb36a19d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:07:01.000",
-    "numericValue": 70,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 70
-    }
-  },
-  "36d4be7b-bf39-4790-83e0-57760eecbf1e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:37:09.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:37:09.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "62b01ec5-c314-43af-8cf8-f6d9d7d5f328": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:50:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:50:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "e509c6f8-8ec3-43b8-a98c-59080979a794": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:57:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "0e5c6db6-c28f-4b3a-8152-4655aebefd1a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:20:04.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:20:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "3805d71d-50f4-4333-9126-f4659170a0b8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:32:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "4846ea4b-0fa1-4c95-85c8-429c77541b2b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:42:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:37:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "d67f3b18-40e6-43a3-87a4-3bb4bd35efd2": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:52:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:47:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "c0c21373-1b5d-4495-9315-ba28bac6e54d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:45:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "85e907d7-4e4c-4297-a6f2-1a5c49cc3168": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:17:01.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "fc46c172-f888-49cf-9dd9-f2e958d8d877": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:57:01.000",
-    "numericValue": 65,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 65
-    }
-  },
-  "0deae7a4-8db1-40fa-8cec-013f714c374e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:35:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "23a3f18e-a465-4f75-b00f-f0379a1c53a6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:27:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "8435a759-1149-4b37-893e-6b0945922ad3": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:10:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "5b0bca17-48ec-4b24-bcc7-7421c932b6e1": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:46:04.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:46:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "7ad67593-056a-4482-8188-fc62753948f7": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:37:01.000",
-    "numericValue": 65,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 65
-    }
-  },
-  "d0493223-5edb-461b-83f4-5706bee36091": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:50:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:50:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "aab642f6-8160-4adc-9e72-bd80ad39f0dc": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:17:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "e9fcf39a-128e-455b-b543-6a15cf962122": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:25:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "d3a957a8-b6a5-4151-b1c5-27efa732811a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:47:36.000",
-    "numericValue": 74,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:47:36.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 74
-    }
-  },
-  "81271118-dd91-47ae-874c-261519f5d75e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:25:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "4b2b6bea-f11e-4a0c-bbee-d1d0d3802b8f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:47:13.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:47:13.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "faf6bdec-8f72-4770-b3f0-468811e6c872": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:27:01.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "a088db00-c6e9-44bd-8226-fd900f38ae8e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:42:01.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:37:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "fa4a23c6-3c22-440e-ae0f-c7ec033e6c69": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:02:01.000",
-    "numericValue": 69,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 69
-    }
-  },
-  "ae9542c3-1e11-4a38-a96b-c5385c46f2e7": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:22:01.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "e4b59b0f-54f0-4b7f-b199-1f1042182b3a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:05:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:05:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "87abe848-18cf-45d1-9d41-a751631f2cae": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:30:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "a7ac12e5-d547-43d9-a0d3-752519764e86": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:05:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:05:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "90a53165-f6d2-4339-86ea-51745ac6967d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:37:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "ab6753c2-a1e5-429f-9de7-249cfc5b15c0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:20:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:20:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "a51937f7-942c-4fab-b7dc-6b158afdaafa": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:55:18.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "943af359-eb2b-44c7-bd0e-d0f26b9a89ca": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:47:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "ee236674-de68-42ee-93b8-b935efb8a991": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:55:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "16c1866b-315e-4a9a-a36a-57023b02f0e0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:45:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "611ba653-8779-457f-8b12-f9d46fe1259e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:42:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:37:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "d25faef0-795f-4449-b1df-00c16dbcbd73": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:12:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:07:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "7860a74e-3ef2-4d3b-802a-d010236ba377": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:30:18.000",
-    "numericValue": 65,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 65
-    }
-  },
-  "5eb0d247-b1f0-4cda-b3d4-77142ff47b0a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:37:01.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 53
-    }
-  },
-  "7ed08765-cac2-4d8e-881f-86028d634ac7": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:35:18.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "293c53ba-9233-49a2-99fe-419804666e17": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:12:01.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:07:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "3755c270-7ca6-42ae-b981-b8a3783b9bbb": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:55:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "15fb400a-948e-4abc-b6fc-84d5f54d5254": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:15:18.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "4a2d4be1-7a3d-4e00-a28c-04d39191c350": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:32:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "9692ffe0-c350-48e9-91b4-cbd7029d93b3": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:00:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "a11dff61-fdc0-4a9c-8dd8-f9a54dcb35a4": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:17:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "4bf3b7cc-bc33-4aa2-a555-d9ac9072cbfa": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:27:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "5d6edc2b-4aa8-4041-bfc5-403ceffa017f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:27:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "3b848470-cafe-42e4-a2a5-3a48ec293afb": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:52:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:47:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "0ffb8abe-7b29-468d-ae80-64304df6cd98": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:22:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "734e1c28-2ab7-42c6-9975-cccb968a7ed4": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:45:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "a4228ea6-ec0c-4ba6-bd7f-41f09c873150": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:56:04.000",
-    "numericValue": 69,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:56:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 69
-    }
-  },
-  "38668d79-cb6b-48b6-bb86-5148b547d927": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:40:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "8b687707-9543-4262-b726-11dbc59859f9": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:00:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "5655465d-49cb-464c-9810-ca9cdc6133a6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:47:01.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "f8bc4635-da5b-44f9-a411-54d4d5a10ebe": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:45:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "e6c340aa-64bf-44ca-941c-39a715dbf7b0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:32:01.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "0c6aeead-d7cf-4690-9b5b-8d14621cce9c": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:07:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "e604d090-74ee-4d63-b13e-fbf1c1a68df5": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:12:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:07:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "d0dfe571-8095-4724-b224-ad73af18b86f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:57:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "fe5fc897-044c-4b1d-9bd6-2392d47fbaac": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:22:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "d99c6ed2-760d-4dd3-aa2c-114b779a3ee9": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:40:18.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "5803060f-3690-45b6-92d0-d378ee04b192": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:10:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "f97deb27-75f3-4b33-a2ca-1285bdf8ada5": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:50:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:50:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "3f06ed1f-4cef-468e-9bcc-4aa8f1ea271c": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:52:01.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:47:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "f41d6053-b7c0-4427-8d38-78f65eae2e3b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:22:01.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "bb74c2b1-5236-4024-a36d-ea6a1635d040": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:37:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "630c2316-0bbd-452d-84cb-2bed17eae411": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:02:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "ae325afa-4e0c-4a94-898f-98f9c6fb329b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:55:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "f7bea349-bb27-4738-99c6-542cbbd96e7d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:32:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "259d20f1-b2f5-4981-aee7-88415698ea92": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:05:18.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:05:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 53
-    }
-  },
-  "881f9198-1784-4aa6-b1b0-a7b2847cc680": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:15:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "a86529d2-a7ad-4e9e-acc4-1b53a2655cb6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:40:18.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "20db0b0e-778d-4d8f-93eb-ac9e352d63a6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:00:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "760fe5bf-6254-4c87-9a90-3885c46abc41": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:10:18.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "d47e6807-163d-401e-8c0d-0ccc72eb7542": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:50:18.000",
-    "numericValue": 65,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:50:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 65
-    }
-  },
-  "89473deb-2921-4232-8632-d57306deecd9": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:10:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "5bf3ad18-7b21-4bb8-baaa-4aac35776708": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:47:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "aba71621-7d85-4acd-9cb9-7697c002815f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:05:18.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:05:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "6212e5bf-92e9-4020-949f-e95916dfc135": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:57:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "697ed6b7-7df4-4492-a3a4-d6826a129570": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:42:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:37:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "a96c712e-0cf6-4aad-9b4e-af753733cd7b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:57:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "ccfc2b34-bec2-4a06-a2bb-bd07f9074fca": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:35:18.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "724cf783-1202-455f-9bf9-2e0c27de1c0a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:40:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "7c6b004a-8d41-4456-af83-e0180a15c955": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:20:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:20:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "1630f9ec-a4aa-4a41-a718-e87145592192": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:22:01.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "d4efa780-c280-4c21-a563-746a2cc7c787": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:00:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "44370f47-d32b-4ccc-be8d-033073ecc4fb": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:51:04.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:51:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "e20aa1a7-a867-45a4-8026-60b9f2b08637": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:47:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "d41a4ea1-ad8e-4cba-a9c0-56009d934978": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:30:18.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 53
-    }
-  },
-  "88b590fe-fcd3-4a78-8724-d8a09936b0b0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:17:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "b1a4b3ac-1c6c-4a79-a7ea-6821a728187f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:42:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:37:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "8ce7fa24-ce79-49de-92a3-a0dce4bda809": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:12:01.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:07:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "8fa5c131-6f55-49bc-9b67-4c8552843557": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:22:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "e98f416c-fc39-4653-9454-3e9a491797d8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:47:37.000",
-    "numericValue": 82,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:47:37.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 82
-    }
-  },
-  "39682485-c9bc-490d-8818-ffd826838509": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:40:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "abb54baf-173d-4bbf-9f7b-b1191b0d6ed5": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:00:18.000",
-    "numericValue": 70,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 70
-    }
-  },
-  "0f230371-0d98-4392-8c89-053d9a3fa45e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:15:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "3c74d7ee-f9b6-41b8-821c-2bfda31e7935": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:47:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "ce46f898-ca57-47f4-9b0f-ad906056ba52": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:37:01.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 53
-    }
-  },
-  "23d9600f-8068-4346-9e66-5cd8bc8b34d8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:32:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "557c180d-d545-48c0-b522-d8c216977b46": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:05:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:05:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "b20d04a4-5421-4209-ba47-3ca15f792b39": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:27:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "ad5e4bc4-adf8-4772-8be8-b2fa8030e1fc": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:25:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "d694630b-ce13-4371-b936-bd743ce07ffe": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:37:40.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:37:40.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "227555ec-f911-466e-848c-9d60c216de1a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:25:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "cb5a30a2-58d7-4c41-b3d4-82526e1d278e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:02:01.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "d974c616-bc38-49dc-8431-ea77207b3fb1": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:40:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "01e65d53-7a66-436b-bb1e-4c34153b5707": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:25:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "aaa1d061-b4bc-4f1a-a0f7-c965a2572d80": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:30:18.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "1415b139-959b-4cd2-864c-55aca08f62b0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:41:04.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:41:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "ac8461ee-01e9-4f89-add8-8b4a881195c1": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:35:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "d2a7073d-583d-4caa-a01a-c5e7d3ed4221": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:07:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "3753cfef-8ef4-4a1b-a400-61397a697f6a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:22:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "c9cf4b75-0861-4891-9562-e17521c1c605": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:15:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "a745c1df-aa6d-4940-a9e1-879dc1701d6b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:15:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "9d4b10c3-9f1a-498e-93d9-51263f06dc45": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:15:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "ae9278a7-6c84-40ba-93ed-39079d7f4920": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:05:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:05:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "31e5eb66-260d-4695-b5f2-eb7ec5057a32": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:20:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:20:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "27f33116-9464-4c65-8bbb-4c7a09f2cf30": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:37:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "19aae8de-8668-456f-bc3f-241519bb90f7": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:02:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "773d2d5e-ccb1-4ffd-a237-fd4a669c6767": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:17:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "413aaa4d-a823-45df-a814-74f6f8f77273": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:30:18.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 53
-    }
-  },
-  "81d026d5-901f-4f4a-9af2-93ab3efa407f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:25:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "a79ad9e4-3d42-4781-9575-494cd1efd899": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:52:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:47:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "b8da8886-45ba-4251-8512-4e6fa4671e82": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:50:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:50:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "3852d547-58d4-48e6-be77-9cba015da651": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:12:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:07:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "d2bf606f-4e10-43d3-ac6e-fcb812a6bbb0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:07:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "3b8542ba-7baf-42f4-a832-cb16d078fa4e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:02:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "72291644-56bf-46fb-a087-12d639dd481d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:52:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:47:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "fa8ca95f-2f9b-485b-9d35-e74bac1a6454": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:42:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:37:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "8629cfc7-6642-4a8c-bfb9-86bb562929d1": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:20:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:20:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "860bf582-0d29-49e0-b5e6-5560692cef44": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:10:04.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:10:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "87004caf-60eb-4889-ad86-db53cb69ad0b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:07:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "e1409cd0-c437-4fa3-9034-c0bcb35c4623": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:57:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "9019732b-43e3-4420-a016-0a799e07f1db": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:27:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "d1389645-11b5-4614-8a43-e4b572b639fd": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:45:18.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "03fa6843-cb52-4d2f-b617-bd9393198f8b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:55:18.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "374941d7-1733-4f83-b915-d016651e5337": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:35:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "582ec22b-4cd8-455b-8ed0-4ee9fb21cac6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:07:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "9a495211-6eba-4f24-b52f-c0d90abc5f86": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:47:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "23b3ce81-6a7c-4807-a963-5851f265768b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:10:18.000",
-    "numericValue": 64,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 64
-    }
-  },
-  "06a8b6c5-c912-41bc-ad08-3a265d254400": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:17:01.000",
-    "numericValue": 64,
-    "savedAt": "2026-02-16T16:36:20.544",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 64
-    }
-  },
-  "b0227461-7764-430c-bfa7-daa53e58c72a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:00:18.000",
-    "numericValue": 70,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 70
-    }
-  },
-  "3c0ddbf1-56ae-46fd-9643-dcdf4b5b1990": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:10:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "ab4b8532-b5cb-4b78-86a8-a624138ab729": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:17:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "9e8b5007-3045-4a17-aa62-14ec2c0dfb3c": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:20:04.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:20:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "e3ad8b8a-1818-46ef-8a1c-e06e4d601c3b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:32:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "bb56bf18-d4c8-43e5-b44c-c3c466937244": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:35:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "6be79169-de12-48f6-b188-70afbe1f978f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:25:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "b5e4a585-03f5-454c-ae44-56b212795f4d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:35:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "c19933b2-435a-4a94-b7ae-db1757e98f13": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:02:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "04d7da8f-0ff2-4716-a367-b482c7f66295": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:00:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "564f11d9-21e8-4aa8-bf8a-3923b79c78e0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:15:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "7b7a6f0e-8714-41fa-af32-caaacfab56c8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:10:18.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "42a40f62-beb1-428c-85ce-c75c1bbe1431": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:00:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:00:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "7373730c-bfa8-4668-92ce-3ac0db3805a1": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:45:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "040fedfa-f38d-4894-8025-f824c0e5af92": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:17:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "8dc0ef0e-1de7-4ec3-8afd-7a1f2150e32f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:02:01.000",
-    "numericValue": 69,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 69
-    }
-  },
-  "8265f492-93fd-40e2-9cd2-a76b0f48895c": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:12:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:07:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "82495c61-7613-4be9-92ce-b24dcea9900a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:37:21.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:37:21.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "237f0a81-823d-4c44-b07f-e8e3f47954aa": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:47:36.000",
-    "numericValue": 74,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:47:36.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 74
-    }
-  },
-  "2c32a2a2-cead-433d-88d1-5bfafadaff8b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:12:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:07:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "92df31c8-a63a-4000-8527-804b3e686f7f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:57:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "c98d46f6-3709-4dd0-b460-1b4e0cc1c332": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:40:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "68f588be-3d25-4b74-bc45-d6f7284f997b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:25:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "ceebf670-f42e-46dd-adb6-20e9f7d66ea8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:37:01.000",
-    "numericValue": 65,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 65
-    }
-  },
-  "0ba4b71e-57d9-4080-8a6a-5072ad8c61d3": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:50:18.000",
-    "numericValue": 65,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:50:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 65
-    }
-  },
-  "ae4c105b-5597-4111-9e10-15460463138b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:55:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "cc786ffb-1e4b-47bd-b1a4-4c7e3f3bcea0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:07:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "1288b18d-1975-4d7b-b435-8593cd9923a8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:37:40.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:37:40.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "57b4cd4c-0bb0-42a7-b72b-b40b04ac97e9": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:55:18.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "b3da5c79-c64c-492f-a2bf-281fc5fe5196": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:52:01.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:47:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "aedacc69-d78b-4b55-88ee-a669c7f0b146": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:10:18.000",
-    "numericValue": 64,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 64
-    }
-  },
-  "d6d3101c-1089-46c6-bd3d-1bc792fdb881": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:27:01.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "13aa0843-6c03-40e7-948c-2a776fddadf8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:37:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "4d1298ba-667f-439d-bda8-a1c06f8c9a3f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:02:01.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "d4a921ab-591c-4319-a19e-93f3aa7d6ee2": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:15:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "ef4c8104-de15-4dc9-99b9-2c9eabd4b97f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:35:18.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "9318096f-562b-4363-ba98-86aeeb370df7": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:52:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:47:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "f24977f2-c0e2-4535-a99e-b64a0672dc9c": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:45:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "f35f5f39-8c64-4428-bf84-a2e963730aad": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:32:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "7cc7fcaa-67b4-4d52-8123-273c2deffc72": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:47:13.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:47:13.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "e04e837c-a036-4da8-9779-fc233b2e09fe": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:51:04.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:51:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "1ac779cb-d627-4894-8ce2-9d01f312c87b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:07:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "cc5a2bc6-2cf4-4d64-8db6-21ad26e3e3e6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:41:04.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:41:04.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "4fa55c15-cc0e-462a-b745-9bc48f2c8aa0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:32:01.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "f43680a7-1490-40fb-98d6-f29f48a89292": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:32:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:27:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "2f40230f-dee1-409d-bbcd-81cff721d3ed": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:07:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "c8d751e7-f56b-44ca-829f-992074bd93bc": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:10:18.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "ef316ba0-0f56-4497-97f1-589a012a4c34": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:10:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:10:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "a6dc62d5-9f54-4a88-95da-93d0c4a63ca1": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:35:18.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "36be4884-1968-4962-b1cc-e68dc0c33fae": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:35:18.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:35:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "8177a119-011e-434e-a425-b266a96bb79b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:57:01.000",
-    "numericValue": 65,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 65
-    }
-  },
-  "5911452f-34b4-45a0-96ba-db6f32518b08": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:30:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "f0c91ad0-96c5-4d91-861e-303b965dc463": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:40:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "4e91f684-013f-402f-a10a-5f14707080f0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:30:18.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "7ca9b9cf-f102-42c2-9462-e2f854f166fa": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:57:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "fa8b2971-df80-4865-af48-b2e3c4f94d6c": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:17:01.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 54
-    }
-  },
-  "0891640d-00e9-4d77-9688-b352807fe9d0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:37:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 60
-    }
-  },
-  "6da87fad-3b0b-406a-b5e4-f23d74654e0f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:07:01.000",
-    "numericValue": 70,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 70
-    }
-  },
-  "6d5a0270-01f0-4062-a8e8-f75446dc8c1f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:50:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:50:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "9a819c1c-ff02-4f1c-883a-99113e2490ad": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:40:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:40:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "6cce1029-b1ee-4070-a673-a8ad16cf4b91": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:30:18.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 53
-    }
-  },
-  "8cd25a5a-f2df-4104-b119-8ecc0d0270aa": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:47:01.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "c2c2cc65-c3ca-430b-b39f-abcd3e16d3cc": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:57:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "92c7e0a3-d751-4a29-ac44-8139ef30583a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:47:37.000",
-    "numericValue": 82,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:47:37.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 82
-    }
-  },
-  "69355952-f393-4e98-b4e6-dcf21f787216": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:17:01.000",
-    "numericValue": 64,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:12:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 64
-    }
-  },
-  "f4a312db-e7af-4a37-9040-7ce449224e34": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:30:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "4d70bb2e-9f00-4c67-a828-9156b1f57172": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:22:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "5fd69c69-f93b-4e29-bd1b-e8c4f29fb54a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:32:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:27:02.000",
-    "type": "HEART_RATE",
+    "sourceName": "JEREMY’s iPhone (2)",
+    "dateFrom": "2026-02-16T06:24:42.929",
+    "type": "DISTANCE_WALKING_RUNNING",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 57
+      "value": 18.52999999979511
     }
   },
-  "b53de97c-5966-49bc-8626-c36565f68c0e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:15:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "d70495a6-8008-472a-95ec-ed6d13a9200b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:55:18.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 66
-    }
-  },
-  "c83fa92a-1ac7-4c8a-8225-f0ea19932bd2": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:15:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:15:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 61
-    }
-  },
-  "25dc5df9-3a8a-433c-9d98-257541617a02": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:20:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:20:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 57
-    }
-  },
-  "03e9b2c7-48cd-4590-8dd3-33bab4582abb": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:37:01.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 53
-    }
-  },
-  "68d58252-da96-4572-b493-9b15ed6025f9": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:47:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "4dae8fa7-e275-4590-9c08-8670349f0310": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:45:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "c4b9fbdb-6b41-4274-b233-844a90e96349": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:25:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "0f5b8b1b-33c3-478b-b99e-4acf0e01df3e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:22:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "494b3a3c-831d-4d78-b009-9e1d235f8147": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:07:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:02:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "c7b5a0e9-906b-4f7c-9e69-2585880d7cf6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:27:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "69259997-d0a8-4862-b559-6cbcaf504974": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:25:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:25:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "7ef462ca-3e38-4060-aed9-ca861f47ec27": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:50:18.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:50:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "d4518e8f-1c59-4ef7-b622-a48bb9c43bef": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:05:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:05:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "1558b270-1746-4bdd-a7c3-97f10f01f706": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:57:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:52:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "d81c4e5f-083e-48de-9e55-926250c3711d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:30:18.000",
-    "numericValue": 65,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:30:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 65
-    }
-  },
-  "71a13f41-fb32-464b-ae02-f0b4706a2792": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:42:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:37:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "f0057a5f-4b40-490f-9a7f-6dada259f7be": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:37:01.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:32:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 53
-    }
-  },
-  "00ef1cd7-c95c-43cc-bf9b-d3079a218542": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:42:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:37:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "47478e46-f7b1-46da-a65b-e5e23b30c934": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:02:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:57:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "41b69383-873e-4eab-a530-fc08e2cd10d7": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:27:01.000",
-    "numericValue": 56,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 56
-    }
-  },
-  "858ba157-ae3d-4bee-bae3-66db4888652d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:47:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:42:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "b11ba680-54cf-4070-8d07-fe8c65bc61b4": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:45:18.000",
-    "numericValue": 67,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:45:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 67
-    }
-  },
-  "c8eb5ea8-0ca5-4e55-a01c-b29c91b586c2": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:12:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:07:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 63
-    }
-  },
-  "29acd507-5974-4c88-8a84-1c0bfa7ddbd6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:27:01.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:22:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 62
-    }
-  },
-  "f6fdd7cd-0399-40eb-a6ca-fcdc9183158b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:52:01.000",
-    "numericValue": 55,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:47:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 55
-    }
-  },
-  "28d054c2-ce0c-4a7f-a4a1-448366cff058": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:55:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:55:18.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 58
-    }
-  },
-  "8f30e24a-bacd-4ced-91c0-4b5c8067cecf": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:22:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:17:02.000",
-    "type": "HEART_RATE",
-    "recordingMethod": "automatic",
-    "value": {
-      "type": "numeric",
-      "value": 59
-    }
-  },
-  "604ae916-d4f0-44c2-a644-40a31f9037fc": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:45:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "fa3c8250-3085-4d75-8a31-34c573b2fc53": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:46:00.000",
+    "numericValue": 6,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:45:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:45:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 59
+      "value": 6
     }
   },
-  "91df6cb3-70da-46ae-b4dc-b0a0c0061e60": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:42:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "6a608489-7d50-4015-a61d-aae47ac06662": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:44:00.000",
+    "numericValue": 0.12,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:37:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:44:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 60
+      "value": 0.12
     }
   },
-  "9e7ba776-bbbc-4470-9c85-423540f5c4a8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:25:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "ac9342cc-9ecc-4d26-bea0-944b22b42ad8": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:40:00.000",
+    "numericValue": 25,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:25:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:39:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 63
+      "value": 25
     }
   },
-  "e79225b8-a250-4fe8-bf96-263594cedef3": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:22:01.000",
-    "numericValue": 54,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:17:02.000",
-    "type": "HEART_RATE",
+  "624729e1-98c8-4467-9f06-2e6f36570747": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:25:44.082",
+    "numericValue": 0.452,
+    "savedAt": "2026-02-16T16:36:20.544",
+    "sourceName": "JEREMY’s iPhone (2)",
+    "dateFrom": "2026-02-16T06:24:42.929",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 54
+      "value": 0.452
     }
   },
-  "97dd10b1-08d9-4da4-a00a-43f177647844": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:20:18.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "a8dadab7-f1e5-4599-95eb-6932390b8de4": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:49:00.000",
+    "numericValue": 3,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:20:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:48:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 61
+      "value": 3
     }
   },
-  "a2c7869e-637a-47a7-ab69-a7d43c1784cd": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:20:18.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "c375b3c5-4cf3-4684-a2a5-89a566bfa96d": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:41:00.000",
+    "numericValue": 3,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:20:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:40:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 66
+      "value": 3
     }
   },
-  "449dca74-30bb-433e-b0b9-4307fc0437ad": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:50:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "15337154-0379-4d4e-b924-fe5ab5967132": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:47:00.000",
+    "numericValue": 0.52,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:50:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:47:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 0.52
     }
   },
-  "9c87815b-67bd-4b33-aa2e-ca58d401937e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:46:04.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:46:04.000",
-    "type": "HEART_RATE",
+  "d2e71a86-bb37-4e5c-8ad6-5efac29fec43": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:25:38.998",
+    "numericValue": 25,
+    "savedAt": "2026-02-16T16:36:20.544",
+    "sourceName": "JEREMY’s iPhone (2)",
+    "dateFrom": "2026-02-16T06:24:42.929",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 25
     }
   },
-  "6eed19e3-795e-4aa2-895e-0c2c764f377e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:40:18.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "45177b0d-5b7f-4ebb-9628-7e5e7e6c6acc": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:50:00.000",
+    "numericValue": 28,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:40:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:49:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 59
+      "value": 28
     }
   },
-  "2b64f63f-dd07-4c48-8ad2-a2260db4a61b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:17:01.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "f30b17b0-04e1-4799-b62f-df4eed5c4a5b": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:25:00.000",
+    "numericValue": 0.4,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:12:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:25:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 60
+      "value": 0.4
     }
   },
-  "98141b4a-3c65-48a8-80d3-84a9f69cf787": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:10:18.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "7a010976-e978-4432-bf30-fbe79525f1b3": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:38:00.000",
+    "numericValue": 0.12,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:10:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:38:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 57
+      "value": 0.12
     }
   },
-  "464ac4d3-8e76-4771-879c-bdceb7ea7e9a": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:02:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "133022f0-4cd1-47f4-a81d-13ab694d6f31": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:43:00.000",
+    "numericValue": 0.88,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:57:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:43:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 0.88
     }
   },
-  "e5d5c4cb-9f48-4caf-aff1-489b119d1d26": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:52:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "f07747eb-288d-4031-aec7-6cd8de471538": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:41:00.000",
+    "numericValue": 0.12,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:47:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:41:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 59
+      "value": 0.12
     }
   },
-  "e640be4e-a7bd-4992-bd1a-a87d19d95e98": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:37:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "d7358141-7b1b-4267-9991-92f317d44bba": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T03:05:00.000",
+    "numericValue": 0.12,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:32:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T03:05:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 0.12
     }
   },
-  "f5c35005-6fc5-4d58-bbef-00399f8bb8ce": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:47:01.000",
-    "numericValue": 59,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "e8906b6a-8fbe-4644-a81f-9ec7dfa14270": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:39:00.000",
+    "numericValue": 6,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:42:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:38:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 59
+      "value": 6
     }
   },
-  "0136e6cd-cf0b-40d8-8bc7-9aea62cd9cb8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:37:09.000",
-    "numericValue": 61,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "64853528-9e10-42a3-ab5f-a97edb1e7889": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:42:00.000",
+    "numericValue": 0.4,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:37:09.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:42:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 61
+      "value": 0.4
     }
   },
-  "f122e806-26a8-4168-be9a-4a1863ddcb90": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:05:18.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "3858fd49-a33d-45df-8ff6-093de3770c52": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T03:08:00.000",
+    "numericValue": 1,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:05:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T03:07:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 66
+      "value": 1
     }
   },
-  "d476f5f0-5efd-46f0-b11f-b0d6ddd413d2": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:40:18.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "25b5d95f-a0e5-4f5d-b18b-f2ba5e2160e2": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:46:00.000",
+    "numericValue": 1.04,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:40:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:46:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 60
+      "value": 1.04
     }
   },
-  "3ae03d0b-2e80-4ca9-be21-368d54742f32": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:32:01.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "76233cda-afcb-4624-b1f8-16aa43c30d79": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:40:00.000",
+    "numericValue": 0.4,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:27:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:40:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 0.4
     }
   },
-  "4a65457b-6e07-43ff-932d-523aa4a1d682": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:07:01.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "2290133d-ca77-4f27-8734-c6b76d9f6d15": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:45:00.000",
+    "numericValue": 2,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:02:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:44:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 63
+      "value": 2
     }
   },
-  "be95e793-1cb0-4a91-bb98-165335ccb25b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:02:01.000",
-    "numericValue": 66,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "71e8b317-7911-4c6d-8e73-68f7d71f0a27": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:26:00.000",
+    "numericValue": 3,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:57:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:25:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 66
+      "value": 3
     }
   },
-  "e9d29f5a-8a21-4b15-a0ba-72ec04703535": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:20:18.000",
-    "numericValue": 62,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "88265369-5560-461c-a94e-6a775b184da1": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:44:00.000",
+    "numericValue": 11,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:20:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:43:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 62
+      "value": 11
     }
   },
-  "665ac2e8-39c2-4811-a86f-2a79310cdd9d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:00:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "5285a446-e154-47ca-bde2-35e0e495ecfc": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:45:00.000",
+    "numericValue": 0.4,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:00:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:45:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 63
+      "value": 0.4
     }
   },
-  "fe3bdc76-727c-4d45-90eb-b7dc6dfbf39d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:05:18.000",
-    "numericValue": 53,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "56acd183-0826-47cc-b364-c81713b03838": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:39:00.000",
+    "numericValue": 2.561,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:05:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:39:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 53
+      "value": 2.561
     }
   },
-  "f16c78c2-057c-4a3b-908f-6e504d282551": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:50:18.000",
-    "numericValue": 63,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "f64c5cef-be80-421b-ad94-0efa84ce1835": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:24:00.000",
+    "numericValue": 0.4,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:50:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:24:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 63
+      "value": 0.4
     }
   },
-  "4925e1f2-14a0-477d-abe8-4c8a74642bfa": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:10:04.000",
-    "numericValue": 60,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "bc90c114-0ec4-40f4-b557-6d2ba8f486e0": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:42:00.000",
+    "numericValue": 5,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:10:04.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:41:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 60
+      "value": 5
     }
   },
-  "50b124ca-8d73-4241-9dc3-b6ba867b8f3b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:17:01.000",
-    "numericValue": 57,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "64404621-0423-4c1c-96c7-5a912818cef3": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:49:00.000",
+    "numericValue": 1.681,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:12:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:49:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 57
+      "value": 1.681
     }
   },
-  "7958421c-9696-48c4-98b2-b7574f2f7549": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:05:18.000",
-    "numericValue": 58,
-    "savedAt": "2026-02-16T16:36:23.560",
+  "9a52f1b9-97f4-4c50-856c-ded565186e2c": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:47:00.000",
+    "numericValue": 31,
+    "savedAt": "2026-02-16T16:36:20.544",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:05:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:46:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 31
     }
   },
-  "36969957-8958-4879-9ce7-6ac7ce9378f0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:20:18.000",
-    "numericValue": 62,
+  "33ca46d2-8241-47f3-991a-62c0a1b890f0": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:49:00.000",
+    "numericValue": 1.681,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:20:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:49:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 62
+      "value": 1.681
     }
   },
-  "745003a3-fa59-4c00-9c0e-95bb5ec7839c": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:00:18.000",
-    "numericValue": 57,
+  "fe5515ac-8333-41b6-bccb-1e5e7c5cdfcc": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:40:00.000",
+    "numericValue": 0.4,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:00:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:40:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 57
+      "value": 0.4
     }
   },
-  "8996e772-8e9e-4a42-8971-39fc4d63c892": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:15:04.000",
-    "numericValue": 59,
+  "651d32df-b337-470a-a8b0-e314ed40b1ed": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:47:00.000",
+    "numericValue": 0.52,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:15:04.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:47:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 59
+      "value": 0.52
     }
   },
-  "966e9de9-27c0-48c1-b4e0-bb89ea6d3ca5": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:47:01.000",
-    "numericValue": 56,
+  "758017f7-1561-4ee0-adee-c8b941c98731": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:44:00.000",
+    "numericValue": 11,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:42:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:43:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 56
+      "value": 11
     }
   },
-  "333c0f52-5a87-4332-bc62-3810048d4a15": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:42:01.000",
-    "numericValue": 66,
+  "1aa8163a-3101-4290-834c-a75af1f4dfef": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:46:00.000",
+    "numericValue": 1.04,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:37:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:46:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 66
+      "value": 1.04
     }
   },
-  "c6704e13-393f-4992-a9a6-ce28bfd602c0": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:12:01.000",
-    "numericValue": 53,
+  "4d80569f-9337-48ff-bd0f-5c8b353952b9": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T03:08:00.000",
+    "numericValue": 1,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:07:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T03:07:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 53
+      "value": 1
     }
   },
-  "4a0c40be-44d7-4ae0-a732-2f668f5aed46": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:15:18.000",
-    "numericValue": 54,
+  "2a3c9c96-fadf-4b69-8328-0a4ee0622000": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:39:00.000",
+    "numericValue": 6,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:15:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:38:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 54
+      "value": 6
     }
   },
-  "be376409-a852-4ed3-ac29-eb22ea604c11": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:56:04.000",
-    "numericValue": 69,
+  "7105ec16-3d22-4f7b-8af8-fb96ba5737ac": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:24:00.000",
+    "numericValue": 0.4,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:56:04.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:24:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 69
+      "value": 0.4
     }
   },
-  "89ee2e44-fec3-4d5e-8418-12d64d007c64": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:27:01.000",
-    "numericValue": 57,
+  "15cd7c12-cee9-4a41-9de6-38bb3d8ad40c": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:38:00.000",
+    "numericValue": 0.12,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:22:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:38:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 57
+      "value": 0.12
     }
   },
-  "2e1f7cc3-f06c-434e-a7f1-730acc5839f5": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:47:01.000",
-    "numericValue": 60,
+  "d562c11b-2d88-40db-a5fe-de67b3aeaaaa": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:43:00.000",
+    "numericValue": 0.88,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:42:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:43:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 60
+      "value": 0.88
     }
   },
-  "ad0e6de4-f129-4624-96d3-bebbfc28845e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:17:01.000",
-    "numericValue": 63,
+  "d4c2846d-2cd0-4c32-b256-26acbc330b57": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:33:00.000",
+    "numericValue": 2,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:12:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:32:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 63
+      "value": 2
     }
   },
-  "1d9148df-056c-480d-98d3-f85875844646": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:12:01.000",
-    "numericValue": 66,
+  "171672ce-e3f7-4ae8-8cea-186fb670be25": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:44:00.000",
+    "numericValue": 0.12,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:07:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:44:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 66
+      "value": 0.12
     }
   },
-  "b1a0578f-f32a-47b5-9866-32200e757eac": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:27:01.000",
-    "numericValue": 62,
+  "2e4e6ee8-74e1-45bd-a4f8-03961e81e527": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:46:00.000",
+    "numericValue": 6,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:22:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:45:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 62
+      "value": 6
     }
   },
-  "fad48a1c-6e87-462d-a192-b56de6cb5a8c": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:25:18.000",
-    "numericValue": 58,
+  "05581c2e-af69-4772-8a52-78ae072151e5": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:40:00.000",
+    "numericValue": 25,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:25:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:39:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 25
     }
   },
-  "599453e0-041a-4b39-a96d-480501e54cb4": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:30:18.000",
-    "numericValue": 53,
+  "8057ae79-4c2d-4201-b1ad-5af18ea9e424": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:25:00.000",
+    "numericValue": 0.4,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:30:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:25:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 53
+      "value": 0.4
     }
   },
-  "44e43005-700c-4544-874f-442236357d5b": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:15:18.000",
-    "numericValue": 62,
+  "2ff1c924-b95e-4488-a51d-4da4a5c29a47": {
+    "unit": "METER",
+    "dateTo": "2026-02-16T06:25:38.998",
+    "numericValue": 18.52999999979511,
     "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:15:18.000",
-    "type": "HEART_RATE",
+    "sourceName": "JEREMY’s iPhone (2)",
+    "dateFrom": "2026-02-16T06:24:42.929",
+    "type": "DISTANCE_WALKING_RUNNING",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 62
+      "value": 18.52999999979511
     }
   },
-  "b012dccb-85a9-44cd-a069-54f709475a4d": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:22:01.000",
-    "numericValue": 62,
+  "31470b22-3743-4a84-8fb8-edb123ad58bc": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:41:00.000",
+    "numericValue": 3,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:17:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:40:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 62
+      "value": 3
     }
   },
-  "9255dba6-6187-4c66-925b-b901cd1747aa": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:57:01.000",
-    "numericValue": 63,
+  "62c70050-8fa2-45fb-859c-3e989c06116d": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:50:00.000",
+    "numericValue": 28,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:52:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:49:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 63
+      "value": 28
     }
   },
-  "e4f024ad-a719-4c05-a715-cbd4b73d24ff": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:22:01.000",
-    "numericValue": 61,
+  "270e01b0-0b80-4923-9256-06cbda899980": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:42:00.000",
+    "numericValue": 0.4,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:17:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:42:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 61
+      "value": 0.4
     }
   },
-  "187c86d5-452f-44f1-a63e-bccf6b11682f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:20:18.000",
-    "numericValue": 56,
+  "1f843875-2404-4599-9db3-ceeb60406b88": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:25:44.082",
+    "numericValue": 0.452,
     "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:20:18.000",
-    "type": "HEART_RATE",
+    "sourceName": "JEREMY’s iPhone (2)",
+    "dateFrom": "2026-02-16T06:24:42.929",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 56
+      "value": 0.452
     }
   },
-  "83f0fce0-a721-4090-9ba4-a3e63d2e69b7": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:05:18.000",
-    "numericValue": 63,
+  "9c46cf59-5f5d-4902-8b61-1394f5ce5099": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:32:00.000",
+    "numericValue": 0.24,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:05:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:32:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 63
+      "value": 0.24
     }
   },
-  "0d483c8e-6af4-4023-a05f-0411b7048c45": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:00:18.000",
-    "numericValue": 55,
+  "4693eed8-8dfc-4e70-a65e-a0d954731109": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:39:00.000",
+    "numericValue": 2.561,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:00:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:39:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 55
+      "value": 2.561
     }
   },
-  "ae713fd3-1cd4-4704-a0a1-8f4431fbd6c2": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:05:18.000",
-    "numericValue": 61,
+  "1a86eb98-eff0-4939-9745-3107377e5966": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:26:00.000",
+    "numericValue": 3,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:05:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:25:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 61
+      "value": 3
     }
   },
-  "9a178cdc-a3b1-427e-92aa-ef0a7da2d90f": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:55:18.000",
-    "numericValue": 63,
+  "4337c415-6121-448f-a91c-d11b1ce7c9d9": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T03:05:00.000",
+    "numericValue": 0.12,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:55:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T03:05:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 63
+      "value": 0.12
     }
   },
-  "09fa13a6-6431-419c-bad8-3801009afd58": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T03:42:01.000",
-    "numericValue": 56,
+  "9f2eb9d7-8f8e-4a08-855a-6c17b7345365": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:48:00.000",
+    "numericValue": 15,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T03:37:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:47:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 56
+      "value": 15
     }
   },
-  "1e958ece-e5ad-4253-a9af-b6c8ec921c2e": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T06:12:01.000",
-    "numericValue": 61,
+  "549f1422-ccb0-42d4-a1fe-e5edf12fad10": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:45:00.000",
+    "numericValue": 0.4,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T06:07:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:45:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 61
+      "value": 0.4
     }
   },
-  "d633ac45-00d2-456c-a863-a95b0951d994": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T00:40:18.000",
-    "numericValue": 67,
+  "8e025f0a-5269-4388-92db-d21282040c8a": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:47:00.000",
+    "numericValue": 31,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T00:40:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:46:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 67
+      "value": 31
     }
   },
-  "f45b143c-991c-4c88-a9d6-46c2ec0d6ccc": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:52:01.000",
-    "numericValue": 62,
+  "2a040651-f686-4f7c-8a44-ae7f6be3aa8a": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:49:00.000",
+    "numericValue": 3,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:47:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:48:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 62
+      "value": 3
     }
   },
-  "bcb1fbfc-8a29-4c9b-ac85-aa7d4a8c62b7": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T05:52:01.000",
-    "numericValue": 56,
+  "16d61797-7012-40ca-84f8-1e4c8956782d": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:45:00.000",
+    "numericValue": 2,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T05:47:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:44:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 56
+      "value": 2
     }
   },
-  "02cf59a3-4c9d-4b37-97ce-ebe4277fb5c8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:42:01.000",
-    "numericValue": 58,
+  "c4fe3041-1d75-42ac-baee-28a9827c2017": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:25:38.998",
+    "numericValue": 25,
     "savedAt": "2026-02-16T16:36:23.560",
-    "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:37:02.000",
-    "type": "HEART_RATE",
+    "sourceName": "JEREMY’s iPhone (2)",
+    "dateFrom": "2026-02-16T06:24:42.929",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 58
+      "value": 25
     }
   },
-  "021bd78b-1c6e-4bca-b2c0-7a7b4390ffb8": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T01:22:01.000",
-    "numericValue": 61,
+  "0f3fb5ca-40f7-464f-8fda-1d808404f92b": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:43:00.000",
+    "numericValue": 3,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T01:17:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:42:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 61
+      "value": 3
     }
   },
-  "aa96a190-94a5-44a6-ac97-fd9eb88105d6": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T04:27:01.000",
-    "numericValue": 66,
+  "a6410258-b676-432e-8a48-5fab1fa749a0": {
+    "unit": "COUNT",
+    "dateTo": "2026-02-16T06:42:00.000",
+    "numericValue": 5,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T04:22:02.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:41:00.000",
+    "type": "STEPS",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 66
+      "value": 5
     }
   },
-  "e4684744-8773-4ffc-b952-a053928cecb4": {
-    "unit": "BEATS_PER_MINUTE",
-    "dateTo": "2026-02-16T02:35:18.000",
-    "numericValue": 59,
+  "3a8254e6-dce4-44e3-9dcc-e828934f77b4": {
+    "unit": "KILOCALORIE",
+    "dateTo": "2026-02-16T06:41:00.000",
+    "numericValue": 0.12,
     "savedAt": "2026-02-16T16:36:23.560",
     "sourceName": "Oura",
-    "dateFrom": "2026-02-16T02:35:18.000",
-    "type": "HEART_RATE",
+    "dateFrom": "2026-02-16T06:41:00.000",
+    "type": "ACTIVE_ENERGY_BURNED",
     "recordingMethod": "automatic",
     "value": {
       "type": "numeric",
-      "value": 59
+      "value": 0.12
     }
   }
 }
